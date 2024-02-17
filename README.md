@@ -1,2 +1,2 @@
 # latihan-branch
-repository untuk latihan bracnh
+ini adalah repository untuk latihan branch di Github
